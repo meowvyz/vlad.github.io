@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(236, 213, 223);
+}
+.zagolovok{
+    font-size: 330%;
+    color: palevioletred;
+    margin-top: 10%;
+    margin-left: 30%;
+    font-family: Silkscreen Regular;
+}
+.zagolovok1{
+    font-size: 80%;
+    color: rgb(0, 0, 0);
+    margin-left: 10%;
+   
+   margin-top: -12%;
+   font-family: Abril Fatface;
+}
+.zagolovok3{
+    font-size: 40%;
+    margin-top: -58%;
+    margin-left: 23%;
+    color: black;
+    font-family:'Times New Roman', Times, serif;
+
+}
+.podzagolovok{
+   font-size: 40%;
+   color: palevioletred;
+   font-family: Silkscreen Regular;
+   margin-left: 5%;
+
+}
+.kirby1{
+    margin-top:-25%;
+    margin-left: 32%;
+   
+}
+
+.kirby2{
+   margin-left: -110%;
+   margin-top: -63%;
+
+}
+
+a{
+    color: black;
+    font-size: 110%;
+    text-decoration: none;
+    margin-left: 20%;
+}
+.consol{
+    margin-top: 45%;
+}
